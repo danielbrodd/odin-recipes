@@ -1,0 +1,43 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+body{
+    background-color: #f9dfdf;
+}
+h1{
+    font-size: 38px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+#links{
+    text-align: center;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    
+}
+a:link,
+a:active,
+a:visited{
+    color: #efafaf;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.069);
+}
+a:hover{
+    color: rgb(73, 102, 84);
+    font-size: 110%;
+}
+img{
+    width: 30%;
+    height: auto;
+    margin: 0 35%;
+}
+h4,h3{
+    text-align: center;
+}
+p{
+    margin-left: 20pxs;
+
+}
